@@ -1,2 +1,3 @@
 # hello_world
-Just learning
+Olá, sou o dudu!
+Estou aprendendo a programar, atualmente estudo lógica de programação.
